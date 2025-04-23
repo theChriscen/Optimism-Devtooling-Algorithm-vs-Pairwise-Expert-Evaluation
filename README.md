@@ -1,1 +1,1 @@
-# Optimism-Devtooling-Algorithm-vs-Pairwise-Expert-Evaluation
+# Optimism-Devtooling Algorithm vs Pairwise Expert Evaluation
